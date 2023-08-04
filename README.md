@@ -8,7 +8,7 @@ This tutorial outlines the understanding of working with tickets <br />
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Create Tickets in osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
