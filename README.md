@@ -5,11 +5,6 @@
 <h1>osTicket - Tickets</h1>
 This tutorial outlines the understanding of working with tickets <br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Create Tickets in osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
