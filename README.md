@@ -5,6 +5,10 @@
 <h1>osTicket - Tickets</h1>
 This tutorial outlines the understanding of working with tickets <br />
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: osTicket - Ticket Lifestyle Examples](https://youtu.be/wtgCmRFXSzI)
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
